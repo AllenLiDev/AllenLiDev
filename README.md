@@ -6,3 +6,5 @@
 * 😄 Most familiar with Node, React, SQL Databases and Jest
 * ⚡ Have worked with Angular, Angular9+, C#, C, Java
 * 💬 Always open to hackathons!
+
+* Resume [Resume Nov 2020](https://github.com/AllenLiDev/AllenLiDev/blob/main/Allen_LHL_Resume_2020.pdf)
