@@ -3,7 +3,7 @@
 ## I'm a Full-Stack Developer who loves basketball and video games
 
 * 🔭 Current Projects: [Rune Management App](https://github.com/AllenLiDev/dashboard-app) built with React
-* 🔭 Current Projects: freelance project for local realtor
+* 🔭 Current Projects: freelance work building personal website for local realtor
 * 😄 Most familiar with Node, React, SQL Databases and Jest
 * ⚡ Have worked with Angular, Angular9+, C#, C, Java
 * 💬 Always open to hackathons!
