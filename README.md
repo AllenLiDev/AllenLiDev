@@ -9,7 +9,7 @@ Also occasionally biking, gaming, or optimizing something that didn’t need opt
 ---
 
 ### 🚧 Current Projects
-* 🔭 [Chaos Zero Nightmare Companion App(https://chaoszeronightmare.pages.dev/?c=veronica&b=draw-engine)]
+* 🔭 [Chaos Zero Nightmare Companion App](https://chaoszeronightmare.pages.dev/?c=veronica&b=draw-engine)
   Building a game assistant that can read screenshots, recognize cards, and suggest plays  
   Exploring Electron, computer vision, and local AI workflows
 
