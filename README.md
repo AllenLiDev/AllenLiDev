@@ -1,6 +1,6 @@
 ### Hello World, I'm Allen Li 👋
 
-## I'm a Full-Stack Engineer who likes building things that actually get used
+## I'm a Solutions Engineer who likes building things that actually get used
 
 I spend most of my time somewhere between debugging data pipelines, wiring up APIs, and thinking “this could probably be automated.”
 
